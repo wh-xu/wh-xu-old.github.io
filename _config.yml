@@ -24,7 +24,7 @@ linkedin_username: weihong-xu-555691124
 
 # About Section
 about_title: About Me #(Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
@@ -50,8 +50,9 @@ more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   Improved Polar Decoding based on Deep Learning   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
-  IEEE Workshop on Signal Processing Systems (SiPS) <br/>
+  IEEE Workshop on Signal Processing Systems (SiPS)   
   [**PDF**](./articles/08109997.pdf)
+  
 
   ***
 
