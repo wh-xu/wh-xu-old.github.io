@@ -3,27 +3,27 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
+name: Weihong Xu
 title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-website: Your website (eg. https://google.com)(optional)
+email: xuweih0712@gmail.com
+# phone: Your phone number (optional)
+website: wh-xu.github.io
 
 # Social links
-twitter_username: jekyllrb
-github_username:  jekyll
-dribbble_username: jekyll
-facebook_username: jekyll
-flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-googleplus_username: +jekyll
+#twitter_username: jekyllrb
+github_username:  wh-xu
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+#linkedin_username: jekyll
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
@@ -34,14 +34,23 @@ about_content: | # this will include new lines to allow paragraphs
     - Links
     - Images
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
 
 # Education Section
-# education_title: Education #(Use this to override about education section title)
+education_title: Education #(Use this to override about education section title)
+- layout: left
+  name: Southeast University
+  dates: 2013 - 2017
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
+
+# Projects Section
+projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+experience_title: Experience #(Use this to override about experience section title)
+
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
