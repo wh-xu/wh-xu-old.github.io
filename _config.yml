@@ -4,7 +4,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: Weihong Xu
-title: Your job title
+# title: Your job title
 email: xuweih0712@gmail.com
 # phone: Your phone number (optional)
 website: wh-xu.github.io

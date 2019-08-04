@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
   name: Southeast University
-  dates: 2013 - 2017
-  qualification: Bachelor of Engineering
+  dates: Sep. 2013 - Jun. 2017
+  qualification: B.E in Information Science and Engineering
   # quote: >
     # Short institution or course description (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    - Thesis: "Accelerating Design of Convolutional Neural Networks"
+    - Outstanding Bachelor Thesis Award (Advisor: Prof. Chuan Zhang)
+    - GPA: 3.7 / 4.0
