@@ -48,9 +48,14 @@ experience_title: Experience #(Use this to override about experience section tit
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  Improved Polar Decoding based on Deep Learning
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang
+  
+  IEEE Workshop on Signal Processing Systems (SiPS)
+
+  [**PDF**](./articles/08109997.pdf)
+
 
 # Footer
 footer_show_references: true
