@@ -48,16 +48,14 @@ experience_title: Experience #(Use this to override about experience section tit
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  Improved Polar Decoding based on Deep Learning   
+  [**Improved Polar Decoding based on Deep Learning**](./articles/08109997.pdf)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
-  IEEE Workshop on Signal Processing Systems (SiPS)   
-  [**PDF**](./articles/08109997.pdf)
-  
-
-  ***
-
-  Joint Neural Network Equalizer and Decoder <br/>
-
+  *IEEE Workshop on Signal Processing Systems (SiPS)*, 2017   
+  [**PDF**](./articles/08109997.pdf)   
+  ***   
+  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](./articles/08252655.pdf)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on ASIC (ASICON)*, 2017   
   ***
   
 # Footer
