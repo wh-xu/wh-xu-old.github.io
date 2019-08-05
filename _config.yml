@@ -38,17 +38,16 @@ about_content: | # this will include new lines to allow paragraphs
 # Education Section
 education_title: Education #(Use this to override about education section title)
 
+# Experience Section
+experience_title: Research Experience #(Use this to override about experience section title)
+
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
-
-# Experience Section
-experience_title: Experience #(Use this to override about experience section title)
-
 
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  ## 2017   
+  ## 2017
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
   *IEEE Workshop on Signal Processing Systems (SiPS)*, 2017
@@ -59,7 +58,7 @@ more_content: | # this will include new lines to allow paragraphs
 
   ***
 
-  ## 2018   
+  ## 2018
   [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018
@@ -82,11 +81,8 @@ more_content: | # this will include new lines to allow paragraphs
 
   #### Efficient Algorithms and Architectures for Neural Networks
 
-  ##### Efficient Algorithms and Architectures for Neural Networks
-
   #### Deep Learning in Communication
 
-  
 
 # Footer
 footer_show_references: true
