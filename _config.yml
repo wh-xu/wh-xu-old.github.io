@@ -79,15 +79,14 @@ more_content: | # this will include new lines to allow paragraphs
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
   to appear in *The 53nd Asilomar Conference on Signals, Systems, and Computers*, 2019
 
-  # 2019
 
   #### Efficient Algorithms and Architectures for Neural Networks
 
-  ### Deep Learning in Communication
+  ##### Efficient Algorithms and Architectures for Neural Networks
+
+  #### Deep Learning in Communication
 
   
-
-
 
 # Footer
 footer_show_references: true
