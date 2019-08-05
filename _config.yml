@@ -48,16 +48,35 @@ experience_title: Experience #(Use this to override about experience section tit
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  [**Improved Polar Decoding based on Deep Learning**](./articles/08109997.pdf)   
+  ###2017
+
+  [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
-  *IEEE Workshop on Signal Processing Systems (SiPS)*, 2017   
+  *IEEE Workshop on Signal Processing Systems (SiPS)*, 2017
 
   ***    
-  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](./articles/08252655.pdf)   
+  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on ASIC (ASICON)*, 2017
 
-  ***
+
+
+  ###2018
+
+  ***    
+  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018
+
+  ***    
+  [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
+  *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, 2018
+
+  ***    
+  [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
+  *The 52nd Asilomar Conference on Signals, Systems, and Computers*, 2018
   
 # Footer
 footer_show_references: true
