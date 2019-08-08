@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Weihong Xu
+name: Weihong Xu | 
 # title: Your job title
 email: xuweih0712@gmail.com
 # phone: Your phone number (optional)
@@ -46,42 +46,38 @@ projects_title: Projects #(Use this to override about projects section title)
 
 # More Section
 more_title: Publications #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  ## 2017
+more_content: | # this will include new lines to allow paragraph
+  #### Deep Learning in Next-generation Communication Systems   
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
-  *IEEE Workshop on Signal Processing Systems (SiPS)*, 2017
-
-  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
-  **Weihong Xu**, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on ASIC (ASICON)*, 2017
-
-  ***
-
-  ## 2018
-  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
-  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2018
+  *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017
 
   [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, 2018
+  *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, Lisbon, Portugal, 2018
 
   [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  *The 52nd Asilomar Conference on Signals, Systems, and Computers*, 2018
+  *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2018
   
-  ***
-
-  ## 2019
   [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  to appear in *The 53nd Asilomar Conference on Signals, Systems, and Computers*, 2019
+  to appear in *The 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
 
+  #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
 
-  #### Efficient Algorithms and Architectures for Neural Networks
+  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
+  
+  [**Low-**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
 
-  #### Deep Learning in Communication
+  #### Efficient Massive MIMO Systems   
 
 
 # Footer
