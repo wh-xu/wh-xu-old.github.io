@@ -1,0 +1,108 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Weihong Xu
+# title: Your job title
+email: xuweih0712@gmail.com
+# phone: Your phone number (optional)
+website: wh-xu.github.io
+
+# Social links
+#twitter_username: jekyllrb
+github_username:  wh-xu
+google_scholar_link: iKoPPOYAAAAJ
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: weihong-xu-555691124
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+#googleplus_username: +jekyll
+
+# About Section
+about_title: About Me #(Use this to override about section title)
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
+    - Lists
+    - Tables
+    - Links
+    - Images
+
+
+# Education Section
+education_title: Education #(Use this to override about education section title)
+
+# Experience Section
+experience_title: Research Experience #(Use this to override about experience section title)
+
+# Projects Section
+projects_title: Projects #(Use this to override about projects section title)
+
+# More Section
+more_title: Publications #(Use this to override about more section title)
+more_content: | # this will include new lines to allow paragraph
+  #### Deep Learning in Next-generation Communication Systems   
+  [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
+  **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
+  *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017
+
+  [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
+  *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, Lisbon, Portugal, 2018
+
+  [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
+  *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2018
+  
+  [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/8645372)   
+  **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
+  to appear in *The 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
+
+  #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
+
+  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
+  
+  [**Low-**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
+
+  #### Efficient Massive MIMO Systems   
+
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
