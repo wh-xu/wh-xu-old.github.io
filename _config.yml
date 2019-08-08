@@ -3,7 +3,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Weihong Xu | 
+name: Weihong Xu | 徐炜鸿
 # title: Your job title
 email: xuweih0712@gmail.com
 # phone: Your phone number (optional)
@@ -48,6 +48,7 @@ projects_title: Projects #(Use this to override about projects section title)
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
   #### Deep Learning in Next-generation Communication Systems   
+
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
   *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017
@@ -62,9 +63,12 @@ more_content: | # this will include new lines to allow paragraph
   
   [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  to appear in *The 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
+  to appear in *the 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
+
+  ***
 
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+
   [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
@@ -73,11 +77,13 @@ more_content: | # this will include new lines to allow paragraph
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
   
-  [**Low-**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
+  submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019   
 
-  #### Efficient Massive MIMO Systems   
+  ***
+
+  #### Massive MIMO   
 
 
 # Footer
