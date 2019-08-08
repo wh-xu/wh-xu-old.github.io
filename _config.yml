@@ -25,14 +25,8 @@ linkedin_username: weihong-xu-555691124
 # About Section
 about_title: About Me #(Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  I am currently a third-year MS student at Southeast University. I work under supervision of Prof. Chuan Zhang and Prof. Yair Be'ery. I received B.E. in Information Science and Engineering from Southeast University in 2017. Please check [<mark>my CV</mark>](http://foobar.com).
 
 
 # Education Section
@@ -47,7 +41,7 @@ projects_title: Projects #(Use this to override about projects section title)
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
-  #### Deep Learning in Next-generation Communication Systems   
+  #### Deep Learning in Next-generation Communications   
 
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
@@ -61,7 +55,7 @@ more_content: | # this will include new lines to allow paragraph
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2018
   
-  [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/8645372)   
+  **On the Efficient Design of Neural Networks in Communication Systems**   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
   to appear in *the 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
 
@@ -84,6 +78,10 @@ more_content: | # this will include new lines to allow paragraph
   ***
 
   #### Massive MIMO   
+
+  **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
+  Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019  
 
 
 # Footer
