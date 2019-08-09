@@ -41,37 +41,38 @@ projects_title: Projects #(Use this to override about projects section title)
 # More Section
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
+
   #### Deep Learning in Next-generation Communications   
 
-  - [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
+  * [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
   *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017
 
-  - [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
+  * [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, Lisbon, Portugal, 2018
 
-  - [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
+  * [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2018
   
-  - **On the Efficient Design of Neural Networks in Communication Systems**   
+  * **On the Efficient Design of Neural Networks in Communication Systems**   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  to appear in *the 53nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
+  to appear in *the 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, CA, USA, 2019
 
   ***
 
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
 
-  - [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
+  * [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
 
-  - [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  * [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
   
-  - **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
+  * **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019   
 
@@ -79,11 +80,11 @@ more_content: | # this will include new lines to allow paragraph
 
   #### Massive MIMO   
 
-  - **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
+  **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019  
 
-  - **Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**   
+  **Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**   
   Xiaosi Tan, **Weihong Xu**, Yaping Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   submitted to *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019  
 
