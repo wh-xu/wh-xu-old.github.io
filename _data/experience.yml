@@ -1,10 +1,41 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: Intel Labs China
+  link: https://www.intel.com
+  job_title: Research Intern
+  dates: July 2019 - present
+#  quote: >
+#   Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    - Manager: Sunny Zhang, Director of Communication Computing Lab in Intel Labs China
+    - Mentor: Hong Cheng
+
+    **Develop flexible MIMO processor for 5G communication systems**
+    - Design instructions
+
+
+
+- layout: left
+  company: Southeast University
+# link: 
+  job_title: Research Intern
+  dates: July 2017 - present
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Deep learning methods in next-generation communication systems
+    - Decoding and MIMO detection
+    - Channel equalization
+
+
+
+- layout: left
+  company: Southeast University
+# link: 
+  job_title: Research Intern
+  dates: July 2017 - present
+#  quote: >
+#   Short description of the company (optional)
+  description: | # this will include new lines to allow paragraphs
+    Design of efficient hardware achitectures for neural networks
+    - Develop low-complexity algorithms

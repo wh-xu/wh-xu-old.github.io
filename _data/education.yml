@@ -1,11 +1,11 @@
 # Education Template
-- layout: left
-  name: Southeast University
-  dates: Sep. 2013 - Jun. 2017
-  qualification: B.E in Information Science and Engineering
-  # quote: >
-    # Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    - Thesis: "Accelerating Design of Convolutional Neural Networks"
-    - Outstanding Bachelor Thesis Award (Advisor: Prof. Chuan Zhang)
-    - GPA: 3.7 / 4.0
+#- layout: left
+#  name: Southeast University
+#  dates: Sep. 2013 - Jun. 2017
+#  qualification: B.E in Information Science and Engineering
+#  # quote: >
+#    # Short institution or course description (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    - Thesis: "Accelerating Design of Convolutional Neural Networks"
+#    - Outstanding Bachelor Thesis Award (Advisor: Prof. Chuan Zhang)
+#    - GPA: 3.7 / 4.0
