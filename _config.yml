@@ -30,7 +30,7 @@ about_content: | # this supports markdown, so you can add [links](http://foobar.
 
 
 # Education Section
-education_title: Education #(Use this to override about education section title)
+#education_title: Education #(Use this to override about education section title)
 
 # Experience Section
 experience_title: Research Experience #(Use this to override about experience section title)
