@@ -62,21 +62,21 @@ more_content: | # this will include new lines to allow paragraph
 
   ***
 
-  #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+#### Algorithms and Architectures Optimization for Convolutional Neural Networks   
 
-  * [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
-  **Weihong Xu**, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
+* [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
+**Weihong Xu**, Xiaohu You, Chuan Zhang   
+*IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017
 
-  * [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
-  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
+* [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+**Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018
   
-  * **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
-  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019   
+* **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
+**Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019   
 
-  ***
+***
 
   #### Massive MIMO   
 
