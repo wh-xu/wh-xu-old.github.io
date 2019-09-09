@@ -26,10 +26,13 @@ linkedin_username: weihong-xu-555691124
 about_title: About Me #(Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of Prof. [Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
-  and Prof. [Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
+  I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
+  and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
 
-  My research interest 
+  My research interests include algorithm optimization in next-generation wireless systems (forward error-correction and massive MIMO detection) and design of efficient hardware architectures for 
+  neuromorphic computing and 5G baseband processing. I am currently doing a research intern in Intel Labs China where I develop flexible MIMO processor for 5G systems on FPGA.
+
+  **Please check my CV** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
@@ -40,10 +43,7 @@ experience_title: Research Experience #(Use this to override about experience se
 # Projects Section
 projects_title: Projects #(Use this to override about projects section title)
 
-# More Section
-more_title: Curriculum Vitae #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraph
-  #### **Please check my CV** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
+
 
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
