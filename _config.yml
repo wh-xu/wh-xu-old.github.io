@@ -30,9 +30,9 @@ about_content: | # this supports markdown, so you can add [links](http://foobar.
   and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
 
   My research interests include algorithm optimization in next-generation wireless systems (forward error-correction and massive MIMO detection) and design of efficient hardware architectures for 
-  neuromorphic computing and 5G baseband processing. I am currently doing a research intern in Intel Labs China where I develop flexible MIMO processor for 5G systems on FPGA.
+  neuromorphic computing and 5G baseband processing. I am currently doing a research intern in [Intel Labs China](http://intel.com) where I develop flexible MIMO processor for 5G systems on FPGA.
 
-  **Please check my CV** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
+  **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
