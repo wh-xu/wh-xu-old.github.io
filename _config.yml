@@ -48,6 +48,26 @@ projects_title: Projects #(Use this to override about projects section title)
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
 
+
+  #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+
+  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
+  **Weihong Xu**, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017    
+  [[**PDF**](./paper/asicon_2017.pdf)][[**Slides**](./slides/asicon_2017_slides.pdf)]
+
+  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018    
+  [[**PDF**](./paper/icassp_2018.pdf)][[**Slides**](./slides/icassp_2018_slides.pdf)]
+
+  **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
+  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
+  Accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019    
+  [[**PDF**](./paper/tcad_fnt_cnn_2019.pdf)]
+
+  ***
+
   #### Deep Learning in Wireless Communications   
 
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
@@ -58,54 +78,36 @@ more_content: | # this will include new lines to allow paragraph
   [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, Lisbon, Portugal, 2018    
-  [[**PDF**](./paper/iswcs_2018.pdf)]
+  [[**PDF**](./paper/iswcs_2018.pdf)][[**Slides**](./slides/iswcs_2018_slides.pdf)]
 
   [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2018    
-  [[**PDF**](./paper/asilomar_2018.pdf)]
+  [[**PDF**](./paper/asilomar_2018.pdf)][[**Slides**](./slides/asilomar_2018_slides.pdf)]
 
   **On the Efficient Design of Neural Networks in Communication Systems**   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
-  to appear in *the 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2019    
+  To appear in *the 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2019    
   [[**PDF**](./paper/asilomar_2019.pdf)]
 
   ***
 
-  #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
-
-  [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
-  **Weihong Xu**, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017    
-  [[**PDF**](./paper/asicon_2017.pdf)]
-
-  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
-  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018    
-  [[**PDF**](./paper/icassp_2018.pdf)]
-
-  **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
-  **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  submitted to *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019    
-  [[**PDF**](./paper/tcad_2019.pdf)]
-
-  ***
 
   #### Massive MIMO Systems   
 
   **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
   **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
-  submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
+  Submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
   [[**PDF**](./paper/polar_tvt_2019.pdf)]
 
   **Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**   
   Xiaosi Tan, **Weihong Xu**, Yaping Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  to appear in *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
+  To appear in *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
   [[**PDF**](./paper/tcas2_2019.pdf)]
 
   **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
+  Submitted to *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
 
   
 
