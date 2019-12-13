@@ -69,6 +69,11 @@ more_content: | # this will include new lines to allow paragraph
 
   #### Deep Learning in Wireless Communications   
 
+  **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
+  **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
+  Under revision, *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
+  [[**PDF**](./paper/polar_tvt_2019.pdf)]
+
   **On the Efficient Design of Neural Networks in Communication Systems**   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2019    
@@ -93,11 +98,6 @@ more_content: | # this will include new lines to allow paragraph
 
 
   #### Massive MIMO Systems   
-
-  **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
-  **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
-  Under revision, *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
-  [[**PDF**](./paper/polar_tvt_2019.pdf)]
 
   **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
