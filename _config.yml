@@ -29,7 +29,7 @@ about_content: | # this supports markdown, so you can add [links](http://foobar.
   I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
   and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
 
-  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO detection) and . 
+  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO systems). 
 
   I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
 
@@ -99,14 +99,14 @@ more_content: | # this will include new lines to allow paragraph
 
   #### Massive MIMO Systems   
 
-  **Improving Massive MIMO Message Passing Detectors with Deep Neural Network**   
+  [**Improving Massive MIMO Message Passing Detectors with Deep Neural Network**](https://ieeexplore.ieee.org/document/8936847)   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  Accepted by *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
+  *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
   [[**PDF**](./paper/mpd_tvt_2019.pdf)]
 
-  **Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**   
+  [**Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**](https://ieeexplore.ieee.org/document/8932533)   
   Xiaosi Tan, **Weihong Xu**, Yaping Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  To appear in *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
+  *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
   [[**PDF**](./paper/tcas2_2019.pdf)]
 
 
