@@ -54,7 +54,7 @@ more_content: | # this will include new lines to allow paragraph
 
   [**Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**](https://ieeexplore.ieee.org/document/8994049)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019    
+  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2020    
   [[**PDF**](./paper/tcad_fnt_cnn_2019.pdf)]
 
   [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/document/8461627)   
@@ -73,7 +73,7 @@ more_content: | # this will include new lines to allow paragraph
 
   **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
   **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
-  Under revision, *	IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
+  Under revision, *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
   [[**PDF**](./paper/polar_jetcas_2020.pdf)]
 
   [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/9048768)   
