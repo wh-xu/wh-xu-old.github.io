@@ -29,9 +29,11 @@ about_content: | # this supports markdown, so you can add [links](http://foobar.
   I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
   and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
 
-  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO systems). 
+  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO systems). I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. 
+  
+  I will join [SeeLab](http://seelab.ucsd.edu/) at UCSD for 2020 fall.
 
-  I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
+  **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
 
 # Education Section
 education_title: Education #(Use this to override about education section title)
@@ -50,12 +52,12 @@ more_content: | # this will include new lines to allow paragraph
 
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
 
-  **Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**   
+  [**Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**](https://ieeexplore.ieee.org/document/8994049)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
-  Accepted by *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019    
+  *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2019    
   [[**PDF**](./paper/tcad_fnt_cnn_2019.pdf)]
 
-  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/abstract/document/8461627)   
+  [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/document/8461627)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018    
   [[**PDF**](./paper/icassp_2018.pdf)] [[**Slides**](./slides/icassp_2018_slides.pdf)]
@@ -71,10 +73,10 @@ more_content: | # this will include new lines to allow paragraph
 
   **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
   **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
-  Under revision, *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
-  [[**PDF**](./paper/polar_tvt_2019.pdf)]
+  Under revision, *	IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
+  [[**PDF**](./paper/polar_jetcas_2020.pdf)]
 
-  **On the Efficient Design of Neural Networks in Communication Systems**   
+  [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/9048768)   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2019    
   [[**PDF**](./paper/asilomar_2019.pdf)]
