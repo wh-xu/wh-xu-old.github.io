@@ -71,10 +71,10 @@ more_content: | # this will include new lines to allow paragraph
 
   #### Deep Learning in Wireless Communications   
 
-  **Deep Learning-aided Belief Propagation Decoder for Polar Codes**   
+  [**Deep Learning-aided Belief Propagation Decoder for Polar Codes**](https://ieeexplore.ieee.org/document/9097207)   
   **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
-  Under revision, *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
-  [[**PDF**](./paper/polar_jetcas_2020.pdf)]
+  *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
+  [[**PDF**](./paper/jetcas_polar_2020.pdf)]
 
   [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/9048768)   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
@@ -104,12 +104,12 @@ more_content: | # this will include new lines to allow paragraph
   [**Improving Massive MIMO Message Passing Detectors with Deep Neural Network**](https://ieeexplore.ieee.org/document/8936847)   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
-  [[**PDF**](./paper/mpd_tvt_2019.pdf)]
+  [[**PDF**](./paper/tvt_mpd_2019.pdf)]
 
   [**Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**](https://ieeexplore.ieee.org/document/8932533)   
   Xiaosi Tan, **Weihong Xu**, Yaping Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
-  [[**PDF**](./paper/tcas2_2019.pdf)]
+  [[**PDF**](./paper/tcas2_epd_2019.pdf)]
 
 
 
