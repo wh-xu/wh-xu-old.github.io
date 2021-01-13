@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Weihong Xu | 徐炜鸿
 # title: Your job title
-email: xuweih0712@gmail.com
+email: wexu@ucsd.edu
 # phone: Your phone number (optional)
 website: wh-xu.github.io
 
@@ -48,6 +48,11 @@ projects_title: Projects #(Use this to override about projects section title)
 
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
+
+  ### Processing-in-memory
+  [**Design: Processing In-Memory Acceleration for Long-Sequence Attention**]   
+  Minxuan Zhou, Yunhui Guo, **Weihong Xu**, Bin Li, Kevin W. Eliceiri, Tajana Rosing   
+  *IEEE/ACM Design Automation Conference (DAC)*, 2021    
 
 
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
