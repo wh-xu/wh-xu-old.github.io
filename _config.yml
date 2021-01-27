@@ -5,7 +5,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 # Personal info
 name: Weihong Xu | 徐炜鸿
 # title: Your job title
-email: xuweih0712@gmail.com
+email: wexu@ucsd.edu
 # phone: Your phone number (optional)
 website: wh-xu.github.io
 
@@ -26,12 +26,12 @@ linkedin_username: weihong-xu-555691124
 about_title: About Me #(Use this to override about section title)
 about_profile_image: images/avatar.jpg
 about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
-  and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
-  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO systems). I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. 
-  
-  I will join [SeeLab at UCSD](http://seelab.ucsd.edu/) and work with [Prof. Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/) from 2020 fall.
-  **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
+  I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/). 
+  My research interests include a) emerging processing-in-memory (PIM) architectures, b) near-storage computing system, c) hyperdimensional computing. 
+
+  Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University](https://www.seu.edu.cn/english), under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
+  and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). 
+
 # Education Section
 education_title: Education #(Use this to override about education section title)
 
@@ -45,51 +45,71 @@ projects_title: Projects #(Use this to override about projects section title)
 
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
+  #### Processing-in-memory and Near-storage Computing
+  **MAT: Processing In-Memory Acceleration for Long-Sequence Attention**   
+  Minxuan Zhou, Yunhui Guo, **Weihong Xu**, Bin Li, Kevin W. Eliceiri, Tajana Rosing   
+  under review, *IEEE/ACM Design Automation Conference (DAC)*, 2021    
+
+  ***
+
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
+
   [**Reconfigurable and Low-Complexity Accelerator for Convolutional and Generative Networks over Finite Fields**](https://ieeexplore.ieee.org/document/8994049)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)*, 2020    
   [[**PDF**](./paper/tcad_fnt_cnn_2019.pdf)]
+
   [**Efficient Deep Convolutional Neural Networks Accelerator without Multiplication and Retraining**](https://ieeexplore.ieee.org/document/8461627)   
   **Weihong Xu**, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, Calgary, AB, Canada, 2018    
   [[**PDF**](./paper/icassp_2018.pdf)] [[**Slides**](./slides/icassp_2018_slides.pdf)]
+
   [**Using Fermat Number Transform to Accelerate Convolutional Neural Network**](https://ieeexplore.ieee.org/document/8252655)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang   
   *IEEE International Conference on ASIC (ASICON)*, Guiyang, China, 2017    
   [[**PDF**](./paper/asicon_2017.pdf)] [[**Slides**](./slides/asicon_2017_slides.pdf)]
+
   ***
+
   #### Deep Learning in Wireless Communications   
+
   [**Deep Learning-aided Belief Propagation Decoder for Polar Codes**](https://ieeexplore.ieee.org/document/9097207)   
   **Weihong Xu**, Xiaosi Tan, Yair Be’ery, Zaichen Zhang, Xiaohu You, Chuan Zhang     
   *IEEE Journal on Emerging and Selected Topics in Circuits and Systems (JETCAS)*, 2020    
   [[**PDF**](./paper/jetcas_polar_2020.pdf)]
+
   [**On the Efficient Design of Neural Networks in Communication Systems**](https://ieeexplore.ieee.org/document/9048768)   
   **Weihong Xu**, Xiaosi Tan, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 53rd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2019    
   [[**PDF**](./paper/asilomar_2019.pdf)]
+
   [**Polar Decoding on Sparse Graphs with Deep Learning**](https://ieeexplore.ieee.org/document/8645372)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 52nd Asilomar Conference on Signals, Systems, and Computers*, Pacific Grove, California, USA, 2018    
   [[**PDF**](./paper/asilomar_2018.pdf)] [[**Slides**](./slides/asilomar_2018_slides.pdf)]
+
   [**Joint Neural Network Equalizer and Decoder**](https://ieeexplore.ieee.org/document/8491056)   
   **Weihong Xu**, Xiaohu You, Chuan Zhang, Yair Be'ery   
   *The 15th International Symposium on Wireless Communication Systems (ISWCS)*, Lisbon, Portugal, 2018    
   [[**PDF**](./paper/iswcs_2018.pdf)] [[**Slides**](./slides/iswcs_2018_slides.pdf)]
+
   [**Improved Polar Decoding based on Deep Learning**](https://ieeexplore.ieee.org/document/8109997)   
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
   *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017    
   [[**PDF**](./paper/sips_2017.pdf)]
-  ***
-  #### Massive MIMO Systems   
+  
   [**Improving Massive MIMO Message Passing Detectors with Deep Neural Network**](https://ieeexplore.ieee.org/document/8936847)   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
   [[**PDF**](./paper/tvt_mpd_2019.pdf)]
+
   [**Efficient Expectation Propagation Massive MIMO Detector with Neumann-Series Approximation**](https://ieeexplore.ieee.org/document/8932533)   
   Xiaosi Tan, **Weihong Xu**, Yaping Zhang, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Circuits and Systems II: Express Briefs*, 2019    
   [[**PDF**](./paper/tcas2_epd_2019.pdf)]
+
+
+
 # Footer
 footer_show_references: true
 
