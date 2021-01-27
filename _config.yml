@@ -27,7 +27,7 @@ about_title: About Me #(Use this to override about section title)
 about_profile_image: images/avatar.jpg
 about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). 
+#I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). 
 My research interests include a) emerging processing-in-memory (PIM) architectures, b) near-storage computing system, c) hyperdimensional computing. 
 
 Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University](https://www.seu.edu.cn/english), under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
