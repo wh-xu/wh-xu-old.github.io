@@ -26,8 +26,7 @@ linkedin_username: weihong-xu-555691124
 about_title: About Me #(Use this to override about section title)
 about_profile_image: images/avatar.jpg
 about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-#I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Rosing](https://cseweb.ucsd.edu/~trosing/). 
+I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/). 
 My research interests include a) emerging processing-in-memory (PIM) architectures, b) near-storage computing system, c) hyperdimensional computing. 
 
 Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University](https://www.seu.edu.cn/english), under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
@@ -52,7 +51,7 @@ more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
 
   #### Processing-in-memory and Near-storage Computing
-  **Design: Processing In-Memory Acceleration for Long-Sequence Attention**   
+  **MAT: Processing In-Memory Acceleration for Long-Sequence Attention**   
   Minxuan Zhou, Yunhui Guo, **Weihong Xu**, Bin Li, Kevin W. Eliceiri, Tajana Rosing   
   under review, *IEEE/ACM Design Automation Conference (DAC)*, 2021    
 
