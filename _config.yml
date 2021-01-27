@@ -32,6 +32,10 @@ about_content: | # this supports markdown, so you can add [links](http://foobar.
   Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University](https://www.seu.edu.cn/english), under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
   and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). 
 
+#I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. 
+
+  **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
+
 # Education Section
 education_title: Education #(Use this to override about education section title)
 
