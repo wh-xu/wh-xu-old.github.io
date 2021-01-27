@@ -26,12 +26,14 @@ linkedin_username: weihong-xu-555691124
 about_title: About Me #(Use this to override about section title)
 about_profile_image: images/avatar.jpg
 about_content: | # this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-  I am currently a third-year MS student at the [Southeast University](https://www.seu.edu.cn/english). I work under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
-  and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). I received B.E. degree in Information Engineering from the [Southeast University](https://www.seu.edu.cn/english) in 2017.
 
-  My research interests include a) efficient hardware architectures for neural networks and 5G baseband processing, b) optimization for next-generation wireless systems (forward error-correction and massive MIMO systems). I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. 
-  
-  I will join [SeeLab at UCSD](http://seelab.ucsd.edu/) and work with [Prof. Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/) from 2020 fall.
+I am a first-year PhD student in [SeeLab at UCSD](http://seelab.ucsd.edu/), advised by [Prof. Tajana Šimunić Rosing](https://cseweb.ucsd.edu/~trosing/). 
+My research interests include a) emerging processing-in-memory (PIM) architectures, b) near-storage computing system, c) hyperdimensional computing. 
+
+Before joining UCSD, I received B.E. and M.E. degrees from [Southeast University](https://www.seu.edu.cn/english), under supervision of [Prof. Chuan Zhang](https://www.researchgate.net/profile/Chuan_Zhang24) 
+and [Prof. Yair Be'ery](http://www.eng.tau.ac.il/~ybeery). 
+
+#I finished a four-month research intern in [Intel Labs China](http://intel.com) where I developed the Flexible MIMO Processor for networks beyond 5G. 
 
   **Please check my** [<mark>CV.PDF</mark>](./cv/CV_weihong.pdf).
 
@@ -49,11 +51,12 @@ projects_title: Projects #(Use this to override about projects section title)
 more_title: Publications #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraph
 
-  ### Processing-in-memory
-  [**Design: Processing In-Memory Acceleration for Long-Sequence Attention**]   
+  #### Processing-in-memory and Near-storage Computing
+  **Design: Processing In-Memory Acceleration for Long-Sequence Attention**   
   Minxuan Zhou, Yunhui Guo, **Weihong Xu**, Bin Li, Kevin W. Eliceiri, Tajana Rosing   
-  *IEEE/ACM Design Automation Conference (DAC)*, 2021    
+  under review, *IEEE/ACM Design Automation Conference (DAC)*, 2021    
 
+  ***
 
   #### Algorithms and Architectures Optimization for Convolutional Neural Networks   
 
@@ -100,12 +103,7 @@ more_content: | # this will include new lines to allow paragraph
   **Weihong Xu**, Zhizhen Wu, Yeong-Luh Ueng, Xiaohu You, Chuan Zhang   
   *IEEE Workshop on Signal Processing Systems (SiPS)*, Lorient, France, 2017    
   [[**PDF**](./paper/sips_2017.pdf)]
-
-  ***
-
-
-  #### Massive MIMO Systems   
-
+  
   [**Improving Massive MIMO Message Passing Detectors with Deep Neural Network**](https://ieeexplore.ieee.org/document/8936847)   
   Xiaosi Tan, **Weihong Xu**, Kai Sun, Yunhao Xu, Yair Be'ery, Zaichen Zhang, Xiaohu You, Chuan Zhang   
   *IEEE Transactions on Vehicular Technology (TVT)*, 2019    
